@@ -1,3 +1,7 @@
 This is a dummy file. It now has only 1 line.
 
 Added another line here.
+
+Wow, hello.... what is going on here?
+
+And just so I can have it in the working dir.
